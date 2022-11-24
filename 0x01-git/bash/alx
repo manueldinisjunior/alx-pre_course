@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 
 #!/bin/bash
 ALX school
+=======
+#!/bin/bash
+ALX school is so cool
+>>>>>>> 897bd72ef88a84e9bc0d02d93d29e0703de0fb3a
 >>>>>>> update_script
